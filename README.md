@@ -30,4 +30,4 @@ Para executar o projeto, siga os passos abaixo:
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/FelipeRochaMartins/BancoApp.git
+   git clone https://github.com/gahlure/BANCO.git
